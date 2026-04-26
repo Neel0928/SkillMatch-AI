@@ -57,6 +57,4 @@ HireSense AI is a smart job portal designed to improve the hiring process by ana
 - Pandas
 - scikit-learn
 
----
 
-## 📂 Project Structure
